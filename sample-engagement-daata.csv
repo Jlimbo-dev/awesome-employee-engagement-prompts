@@ -1,0 +1,21 @@
+\f0\fs24 \cf0 ResponseID,Department,Tenure_Years,Engagement_Score,Theme,Comment,Validated_Trend\
+1,Engineering,2.5,4,Transparency,Leadership doesn't share product roadmap updates early enough.,High_Signal\
+2,Sales,1.2,8,Compensation,Great commission structure this quarter.,Noise\
+3,Marketing,4,7,Work-Life Balance,Burnout is real but the team is supportive.,Medium_Signal\
+4,Engineering,0.5,3,Transparency,I feel out of the loop on major pivots.,High_Signal\
+5,HR,3.2,9,Culture,Best team culture I have ever worked in.,Noise\
+6,Support,2.1,6,Tools,Zendesk integration is still buggy.,Medium_Signal\
+7,Engineering,5,2,Transparency,Management decisions feel like they happen in a vacuum.,High_Signal\
+8,Sales,0.8,9,Growth,I see a clear path to Senior AE here.,Noise\
+9,Operations,2.2,5,Meetings,Too many 'syncs' that could have been an email.,Medium_Signal\
+10,Engineering,1.5,4,Transparency,Why are we hearing about the layoff from news and not Slack?,High_Signal\
+11,Marketing,2.8,8,Autonomy,I love that I can own my projects.,Noise\
+12,Support,1.1,5,Tools,Manual ticket routing is slow.,Medium_Signal\
+13,Engineering,3.5,3,Transparency,Communication from the top is 2 weeks late usually.,High_Signal\
+14,HR,4.2,7,Benefits,Health insurance plan is solid.,Noise\
+15,Operations,1.9,4,Meetings,Daily standups take 45 minutes for no reason.,Medium_Signal\
+16,Engineering,0.9,5,Transparency,Better than my last job but could be clearer.,High_Signal\
+17,Sales,2.4,8,Culture,The sales floor energy is unmatched.,Noise\
+18,Marketing,1.5,6,Work-Life Balance,Hard to disconnect on weekends.,Medium_Signal\
+19,Engineering,2.7,2,Transparency,Total lack of visibility into why the CTO left.,High_Signal\
+20,Support,3.1,7,Growth,"Promoted to Lead recently, feeling good.",Noise}
