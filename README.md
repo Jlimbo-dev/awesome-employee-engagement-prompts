@@ -51,4 +51,6 @@ The Retention Lab - Data-driven culture insights.
 
 HR Burnout Calculator - Free engineering-as-marketing tool.
 
+[Brighten](https://hellobrighten.com) - AI-powered employee recognition and onboarding platform with smart recognition suggestions for managers. Free tier available.
+
 Maintained by the team at SeekWhy.ai. Solving survey fatigue with AI-driven cross-validation.
